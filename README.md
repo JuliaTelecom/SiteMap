@@ -27,3 +27,9 @@ Tools for development & test of PHY communication layer.
    - Pulse shapes: {raised cosine, square root raised cosine}
  - [PhysicalCommunications]
    - PRBS generator ("Maximum-Length LFSR" algorithm).
+
+## Collaboration
+ - [See Collaboration repository](https://github.com/JuliaTelecom/Collaboration): Discussions, road map, etc.
+ 
+## Other resources
+ - [See JuliaTelecom repository](https://github.com/JuliaTelecom/JuliaTelecom): Telecom-related tools.
