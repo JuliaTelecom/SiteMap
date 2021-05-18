@@ -4,6 +4,8 @@
 [PhysicalCommunications]: <https://github.com/JuliaTelecom/PhysicalCommunications.jl>
 [UHDBindings]: <https://github.com/JuliaTelecom/UHDBindings.jl>
 [UHDBindings_DOCS]: <https://juliatelecom.github.io/UHDBindings.jl/dev/index.html>
+[AdalmPluto]: <https://github.com/JuliaTelecom/AdalmPluto.jl>
+[AdalmPluto_DOCS]: <https://juliatelecom.github.io/AdalmPluto.jl/dev/index.html>
 [AbstractSDRs]: <https://github.com/JuliaTelecom/AbstractSDRs.jl>
 [AbstractSDRs_DOCS]: <https://juliatelecom.github.io/AbstractSDRs.jl/dev/index.html>
 [IMGDocsStable]: <https://img.shields.io/badge/docs-stable-blue.svg>
@@ -18,6 +20,8 @@ Julia module for digital communication tools.
 ## Software-defined radio (SDR)
  - [UHDBindings] [![][IMGDocsStable]][UHDBindings_DOCS]<br>
 Julia C bindings for UHD to monitor USRP devices.
+ - [AdalmPluto] [![][IMGDocsStable]][AdalmPluto_DOCS]<br>
+Julia C bindings for LibIIO to monitor ADALM Pluto devices.
  - [AbstractSDRs] [![][IMGDocsStable]][AbstractSDRs_DOCS]<br>
 A common API to monitor several SDRs
 
